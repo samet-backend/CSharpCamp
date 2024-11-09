@@ -1,5 +1,5 @@
 # CSharpCamp | Murat Yücedağ - C# Eğitim Kampı
-# ✅01_MainSubjects
+## ✅01_MainSubjects
 MainSubjects bölümünde temel yazdırma komutları ve değişkenler gibi başlangıç konularını öğrenip alıştırmalar yaptık.
 
 # ✅02_Variables
