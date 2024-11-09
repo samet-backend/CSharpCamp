@@ -7,3 +7,6 @@ Variables bölümünde değişkenleri detaylı olarak öğrendik ve kullanıcıd
 
 # ✅03_MakingDecision
 MakingDecision bölümünde If-Else, Mod, Switch-Case yapılarını öğrendik. Hesap Makinesi ve Örnek Restoran alıştırmaları yaptık.
+
+# ✅04_Loops
+Loops bölümünde For ve While döngülerini öğrendik. Ek olarak bu döngülerle karar yapılarını birlikte kullanmayı öğrendik. Bakteri sayısı hesaplama gibi basit konsol alıştırmaları yaptık.
