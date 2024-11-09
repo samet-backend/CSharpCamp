@@ -11,3 +11,6 @@ MakingDecision bölümünde If-Else, Mod, Switch-Case yapılarını öğrendik. 
 
 ## ✅04_Loops
 Loops bölümünde For ve While döngülerini öğrendik. Ek olarak bu döngülerle karar yapılarını birlikte kullanmayı öğrendik. Bakteri sayısı hesaplama gibi basit konsol alıştırmaları yaptık.
+
+## ✅05_LoopsWithStars
+LoopsWithStars bölümünde döngüler yardımıyla yıldız (*) ile çeşitli şekiller oluşturduk; Üçgen, Piramit, Baklava Dilimi vb.
