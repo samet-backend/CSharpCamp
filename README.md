@@ -20,3 +20,6 @@ Arrays bölümünde dizi oluşturmaktan dizilerin metotlarına kadar detaylı bi
 
 ## ✅07_ForeachLoop
 ForeachLoop bölümünde foreach döngüsünü detaylıca işledik. Örnek Sınav Sistemi Uygulaması adında basit bir konsol uygulaması yaptık.
+
+## ✅08_Methods
+Methods bölümünde metotları detaylıca işledik. Geriye değer döndüren metodu kullanarak Sınav Ortalaması hesaplayan basit bir konsol uygulaması yaptık.
