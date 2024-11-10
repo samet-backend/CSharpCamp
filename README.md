@@ -17,3 +17,6 @@ LoopsWithStars bölümünde, döngüler kullanarak yıldız (*) ile üçgen, pir
 
 ## ✅06_Arrays
 Arrays bölümünde dizi oluşturmaktan dizilerin metotlarına kadar detaylı bir ders işledik. Basit alıştırmalar yaptık.
+
+## ✅07_ForeachLoop
+ForeachLoop bölümünde foreach döngüsünü detaylıca işledik. Örnek Sınav Sistemi Uygulaması adında basit bir konsol uygulaması yaptık.
