@@ -14,3 +14,6 @@ Loops bölümünde For ve While döngülerini öğrendik. Ek olarak bu döngüle
 
 ## ✅05_LoopsWithStars
 LoopsWithStars bölümünde, döngüler kullanarak yıldız (*) ile üçgen, piramit ve baklava dilimi gibi çeşitli şekiller oluşturduk.
+
+## ✅06_Arrays
+Arrays bölümünde dizi oluşturmaktan dizilerin metotlarına kadar detaylı bir ders işledik. Basit alıştırmalar yaptık.
